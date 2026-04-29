@@ -1,0 +1,1 @@
+# Q1. To sort a list in descending order, call list method sort with the optional keyword argument __ set to True.
