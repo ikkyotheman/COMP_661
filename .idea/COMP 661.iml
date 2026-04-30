@@ -5,7 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (COMP_661)" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$/Module_1" />
+    <content url="file://$MODULE_DIR$/Module_2" />
+    <content url="file://$MODULE_DIR$/Module_3" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (Automatetheboring)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
